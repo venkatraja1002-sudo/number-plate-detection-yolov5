@@ -1,5 +1,6 @@
 # number-plate-detection-yolov5
 Deep Learning based Number Plate Detection system using YOLOv5 and EasyOCR with Streamlit web deployment.
+Live demo : https://number-plate-detection-yolov5-thmu9opidxjcjnn2sxvt2g.streamlit.app/
 
 # 🚘 Number Plate Detection using YOLOv8 + OCR
 
